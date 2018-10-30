@@ -9,7 +9,7 @@ And the user input will be divieded into three category:
 3. if it the input contains both number and alphabet, it show invalid input, and as the user to to enter the intput again.
 
 
-Test Cases I covered:
+Test Cases covered:
 1. "1 2 13 45 99 0 0 0 1"
 2. "sunsoutgunsout"
 3. "I am n0thing mr3 than a string"
